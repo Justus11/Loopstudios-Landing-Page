@@ -5,5 +5,25 @@ body {
 }
 
 ul {
+  list-style-type: none;
   margin: 0;
+}
+
+a {
+  color: currentColor;
+  text-decoration: none;
+}
+
+.navbar {
+  height: 70px;
+  width: 100%;
+  background: black;
+  color: white;
+}
+
+.navbar-nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  height: 100%;
 }
