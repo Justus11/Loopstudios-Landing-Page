@@ -32,6 +32,7 @@ a {
 .navbar2 {
     position:absolute;
     width: 100%;
+    top: 10em;
 }
 .navbar-nav2 {
     display: flex;
