@@ -37,7 +37,7 @@ header {
 }
 
 #image-hero{
-    position: fixed;
+    position: relative;
     top: 0;
     left: 0;
 
