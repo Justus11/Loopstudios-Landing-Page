@@ -100,6 +100,12 @@ header {
 }
 
 .light {
+  --bg: var(--gray0);
+  --bg-nav: linear-gradient(to right, var(--gray1) var(--gray3));
+  --bg-dropdown: var(--gray0);
+  --text: var(--gray6);
+  --border-color: var(--blue);
+  --bg-solar: var(--yellow);
 }
 
 .dark {
