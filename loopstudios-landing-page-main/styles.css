@@ -27,3 +27,11 @@ a {
   justify-content: space-evenly;
   height: 100%;
 }
+
+header {
+  padding: 1em;
+  background: red;
+  margin-bottom: 1em;
+  padding-bottom: 3.5em;
+  text-align: center;
+}
