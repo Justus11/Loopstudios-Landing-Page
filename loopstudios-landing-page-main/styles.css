@@ -29,21 +29,28 @@ a {
   height: 100%;
 }
 
+.navbar2 {
+    position:absolute;
+    width: 100%;
+}
+.navbar-nav2 {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    height: 100%;
+}
 header {
-  background: red;
-  margin-bottom: 1em;
-  padding-bottom: 3.5em;
+  position: relative;
+  top: 0;
+  left: 0;
+  width: 100%;
+
+  min-width: 100%;
+  min-height: 100%;
   text-align: center;
 }
 
-#image-hero{
-    position: relative;
-    top: 0;
-    left: 0;
 
-    min-width: 100%;
-    min-height: 100%;
-}
 
 .dropdown {
   position: absolute;
@@ -134,7 +141,4 @@ header {
     --gray4: #3ea565;
     --gray5: #005368;
     --gray6: #003d4c;
-}
-main{
-    text-align: center;
 }
