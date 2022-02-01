@@ -2,6 +2,7 @@ body {
   margin: 0;
   padding: 0;
   font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
 }
 
 ul {
@@ -133,4 +134,7 @@ header {
     --gray4: #3ea565;
     --gray5: #005368;
     --gray6: #003d4c;
+}
+main{
+    text-align: center;
 }
