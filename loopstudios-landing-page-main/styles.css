@@ -36,6 +36,15 @@ header {
   text-align: center;
 }
 
+#image-hero{
+    position: fixed;
+    top: 0;
+    left: 0;
+
+    min-width: 100%;
+    min-height: 100%;
+}
+
 .dropdown {
   position: absolute;
   width: 500px;
