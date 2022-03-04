@@ -3,6 +3,7 @@ body {
   padding: 0;
   font-family: Arial, Helvetica, sans-serif;
   text-align: center;
+  font-size: 15px;
 }
 .box-1{
   display: flex;
@@ -22,19 +23,14 @@ body {
   height: 90px;
   background-color: #12181b;
 }
-.navbar-2 {
-  display: flex;
-  align-items: center;
-  justify-content: space-evenly;
-  background-color: #dbe1e8;
-  width: 500px;
-  height: 40px;
-  margin-left: 50%;
-}
 .navbar-nav2 {
   display: flex;
   align-items: center;
   justify-content: space-evenly;
+  width: 500px;
+  height: 40px;
+  margin-left: 50%;
+  background-color: #dbe1e8;
 }
 .container-2 {
   margin-left: 10%;
@@ -138,6 +134,7 @@ a {
   align-items: center;
   justify-content: space-evenly;
   height: 100%;
+  background-color: #0084a5;
 }
 .header-top{
   color: green;
